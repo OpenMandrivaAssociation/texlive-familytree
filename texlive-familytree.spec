@@ -1,6 +1,6 @@
 Name:		texlive-familytree
 Version:	63739
-Release:	1
+Release:	2
 Summary:	Draw family trees
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/familytree
